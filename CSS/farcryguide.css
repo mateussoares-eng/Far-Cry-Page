@@ -1,0 +1,343 @@
+@font-face {
+    font-family: "farcry";
+    src: url('fonts/farcry/farceb__-webfont.woff2') format('woff2'),
+         url('fonts/farcry/farceb__-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  
+  }
+
+
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 200vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo a{
+   color: white;
+  font-family: 'farcry';
+  letter-spacing: 4px;
+  font-size: 2rem;
+  position: absolute;
+  word-spacing: -10px;
+  top: 12px;
+  transform: translateX(400px);
+  text-decoration: none;
+  
+ 
+  
+}
+.infotarja{
+    transform: translateX(-4.9%);
+}
+.menu {
+    position: absolute;
+    display: flex;
+    transform: translateX(520px);
+    top: 24px;
+
+    
+    
+
+}
+.menu a{
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 0.8rem;
+    margin-right: 20px;
+    font-weight: 1000;
+    text-decoration: none;
+    
+   
+}
+
+.menu a:hover{
+    color: #c0c0c0;
+    transition: 0.2s;
+}
+
+.titlebody {
+    min-height: 200vh;
+    width: 50%;
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    color: white;
+    font-family: sans-serif;
+    transform: translateX(-20%);
+    top: 15%;
+}
+
+.body{
+    display: flex;
+    position: absolute;
+    max-width: 780px;
+    left: 15%;
+    top: 57%;
+    padding-bottom: 20px;
+}
+
+.body p{
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    color: rgb(56, 56, 56);
+}
+
+#mapa{
+    width: 780px;
+    height: 400px;
+    border-radius: 10px;
+    
+}
+
+#poser{
+    width: 780px;
+    height: 400px;
+    border-radius: 10px;
+    object-fit: cover;
+
+}
+
+.trailer{
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
+.tarjatrailer{
+    width: 500px;
+    height: 40px;
+    background-color: #2e5e9c;
+    
+}
+
+.tarjatrailer h1{
+    color: #ffffff;
+    font-family: sans-serif;
+    position: absolute;
+    left: 22%;
+    top: 2px;
+    
+}
+
+#trailermp4{
+    position: absolute;
+    left: 250px;
+    top: px;
+    
+    width: 500px;
+    height: 300px;
+    
+}
+
+.enterprise {
+    height: 5px;
+    width: 80px;
+    padding-bottom: 40px;
+}
+.enterprise h4{
+    font-size: 0.8rem;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 20px;
+}
+
+.titlebody h1{
+    width: 700px;
+    height: 100px;
+    font-size: 3rem;
+    font-weight: 750;
+}
+.slider{
+    width: 540px;
+    height: 300px;
+    overflow: hidden;
+    position: absolute;
+    margin-bottom: 1300px;
+    border-radius: 10px;
+    
+    transform: translateX(390px);
+    
+    
+}
+.bar{
+    width: 100%;
+    min-height: 200vh;
+}
+
+.aba{
+    width: 100%;
+    height: 480px;
+    background-color: rgb(11, 20, 73);
+    
+    position: absolute;
+
+}
+.tarja{
+    width: 100%;
+    height: 65px;
+    background-color: rgb(11, 20, 73);
+    margin-bottom: 1409px;
+    
+}
+
+.fita{
+    width: 100%;
+    height: 1px;
+    background-color:  #2e5e9c;
+    transform: translateY(-1409px);
+    opacity: 0.4;
+    
+
+}
+.trailer{
+    width: 800px;
+    height: 500px;
+    position: absolute;
+}
+
+.info{
+    color: aliceblue;
+    position: absolute;
+    align-items: center;
+    
+}
+
+.info h1{
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.info p{
+    width: 800px;
+}
+.trailer video{
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.navigation-bar{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+}
+.navigation-auto{
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+
+}
+
+.navigation-auto div{
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+.navigation-auto div:not(:last-child){
+    margin-right: 10px;
+}
+
+input {
+    display: none;
+}
+
+.manual-btn{
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+
+.manual-btn:not(:last-child){
+    margin-right: 10px;
+    
+
+}
+
+.manual-btn:hover{
+    background: white;
+    
+}
+
+.slides{
+    display: flex;
+    width: 400%;
+    height: 100%;
+}
+
+.slide{
+    width: 25%;
+    transition: 0.5s;
+}
+
+.slide img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#radio1:checked ~ .first{
+    margin-left: 0;
+}
+
+#radio2:checked ~ .first{
+    margin-left: -25%;
+}
+
+#radio3:checked ~ .first{
+    margin-left: -50%;
+}
+
+#radio4:checked ~ .first{
+    margin-left: -75%;
+}
+
+#radio1:checked ~ .navigation-auto .auto-btn1 {
+    background-color: #ffffff;
+}
+#radio2:checked ~ .navigation-auto .auto-btn2 {
+    background-color: #ffffff;
+}
+#radio3:checked ~ .navigation-auto .auto-btn3 {
+    background-color: #ffffff;
+}
+#radio4:checked ~ .navigation-auto .auto-btn4 {
+    background-color: #ffffff;
+}

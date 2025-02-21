@@ -1,0 +1,305 @@
+<a class="farcrytext" href="#farcry">Far Cry</a>
+    <a href="#farcry2">Far Cry 2</a>
+    <a href="#farcry3">Far Cry 3</a>
+    <a href="#farcry4">Far Cry 4</a>
+    <a href="#farcry5">Far Cry 5</a>
+    <a href="#farcry6">Far Cry 6</a>
+    <a href="#information">Information</a>
+    <h1 id="farcry">Far Cry</h1>
+    <img src="images/1.jpg" alt="a photo about far cry" />
+    <video controls play src="videos/farcry.mp4"></video>
+    <a href="https://store.steampowered.com/app/13520/Far_Cry/" target="_blank">PLAY NOW</a>
+    <div class="text">
+      <p>
+        Far Cry is a 2004 first-person shooter game developed by Crytek and
+        published by Ubisoft. It is the first installment in the Far Cry
+        franchise. Set on a mysterious tropical archipelago, the game follows Jack
+        Carver, a former American special operations forces operative, as he
+        searches for journalist Valerie Constantine, who accompanied him to the
+        islands but went missing after their boat was destroyed by mercenaries. As
+        Jack explores the islands, he begins to discover the horrific genetic
+        experiments being conducted on the local wildlife and must confront the
+        mad scientist behind them. The game was the first to use Crytek's
+        CryEngine, and was designed as an open-ended first-person shooter, though
+        it lacks most of the freedom its successors would offer to the player.
+        While players can freely explore the game's world like in later Far Cry
+        titles, they are most often discouraged from doing so due to the linear
+        structure of missions and the lack of side content. Despite this, the
+        gameplay formula established in Far Cry—placing the player in a foreign
+        environment occupied by enemy forces where they must use various weapons
+        and tools, as well as their surroundings to overcome any threat—would
+        prove essential in defining the series' identity going forward. Far Cry
+        was released for Microsoft Windows in March 2004 to generally positive
+        reviews, being praised for its visuals, gameplay mechanics, and the level
+        of freedom given to players. The game was also a commercial success,
+        selling over 730,000 units within four months of release and over 2.5
+        million units in its lifetime. The success of Far Cry led to a series of
+        standalone sequels developed by Ubisoft, starting with Far Cry 2 in 2008.
+        A remake of the game with a different storyline and new mechanics, Far Cry
+        Instincts, was released for the Xbox in 2005, and for the Xbox 360 in 2006
+        as part of the Far Cry Instincts: Predator compilation. A loose film
+        adaptation was released in 2008. The original version of Far Cry, updated
+        with HD graphics, was re-released under the title Far Cry Classic for the
+        PlayStation 3 and Xbox 360 in 2014. Gameplay Far Cry is a standard
+        first-person shooter set in an open-ended environment: an unidentified
+        archipelago in the South Pacific. The tropical rain forest provides cover
+        and concealment, of which both the player and enemies can take advantage.
+        Enemies react dynamically to the player's tactics and actions. If a lone
+        mercenary spots a player, he occasionally runs for help, signaling
+        reinforcements through use of flareguns. Enemies will work together to
+        outmaneuver, outflank, surround, and provide suppressive fire, providing
+        them a tactical advantage over the player, who, in turn, is able to spot
+        and mark enemies on their minimap through use of special binoculars, which
+        also grant the player the ability to listen to enemy conversations from
+        afar, merely by pointing the binoculars in the direction of the enemies.
+        Later in the gameplay, thermo binoculars can be used to locate the heat
+        signatures of enemies, that would be otherwise concealed by foliage or
+        darkness. The environment includes land, water, indoor and outdoor
+        structures, all during various times of the day. The player has the
+        ability to jump, run, crouch and lie down, and look about in all
+        directions. Sound plays an important part in the overall gameplay. For
+        example, the general location of enemies can often be identified by
+        hearing their footsteps or conversations. Throughout the game, the player
+        encounters a variety of weapons from which to choose, including automatic
+        weapons and grenades. The open maps allow the player to complete their
+        objectives in several different manners. When outdoors, the player is
+        usually presented with a fairly simple set of possible routes to their
+        objective, but these do not necessarily have to be used. Outdoor map level
+        designs are constructed in a way that allows the player to try different
+        angles for assaults, or even completely circumvent enemies (given enough
+        time to maneuver). However, during the indoor sections of the game, level
+        design tends to lose this attribute in favor of a more traditional, linear
+        gameplay.
+      </p>
+    </div>
+    <h1 id="farcry2">Far Cry 2</h1>
+    <img src="images/2.jpg" alt="a photo about far cry 2" />
+    <video controls play src="videos/Far Cry 2 - Launch Trailer.mp4">ue</video>
+    <a href="https://store.steampowered.com/app/19900/Far_Cry_2/" target="_blank">PLAY NOW</a>
+    <div class="text">
+    <p>
+      Far Cry 2 is a 2008 first-person shooter developed by Ubisoft Montreal and
+      published by Ubisoft for Microsoft Windows, PlayStation 3 and Xbox 360. A
+      top-down shooter version for mobile phones was developed and published by
+      Gameloft. It is the second mainline entry in the Far Cry series. Set in a
+      fictional African country engulfed in civil war, the storyline follows a
+      mercenary who is assigned to kill the Jackal, a weapons dealer inflaming
+      the conflict. The player navigates the open world, completing missions for
+      factions and allies called Buddies while managing their health and
+      equipment. A competitive multiplayer mode allows players to fight in teams
+      or as individuals. Production took three and a half years, with concept
+      work beginning during the production of Far Cry Instincts (2005). Director
+      Clint Hocking conceived the setting and design, which he wanted to be more
+      realistic than the original Far Cry (2004). The narrative and tone,
+      inspired by Joseph Conrad's novella Heart of Darkness and Dashiell
+      Hammett's novel Red Harvest, focused on the lengths to which people would
+      go to survive through terrible circumstances. The game was built using
+      Dunia, a game engine created by Ubisoft based on the original game's
+      CryEngine. In pursuit of realism, the developers added real-time and
+      reactive elements for enemies and the environment. The music, composed by
+      Marc Canham, includes vocals by Senegalese singer Baaba Maal. Far Cry 2
+      received positive reviews from critics, with praise for its setting,
+      open-ended gameplay, Buddies, world design and visuals; however, its
+      writing, artificial intelligence and technical issues received negative
+      attention. It received multiple game award nominations. By January 2009,
+      the game had sold nearly three million copies worldwide. Far Cry 2 has
+      continued to receive attention for its ambition and survival mechanics.
+      The team used feedback from the game to develop Far Cry 3 (2012).
+    </p>
+  </div>
+    <h1 id="farcry3">Far Cry 3</h1>
+    <img src="images/3.jpg" alt="a photo about far cry 3" />
+    <video controls play src="videos/videoplayback.mp4"></video>
+    <a href="https://store.steampowered.com/app/220240/Far_Cry_3/" target="_blank">PLAY NOW</a>
+    <div class="text"><p>
+      Far Cry 3 is a 2012 first-person shooter game developed by Ubisoft
+      Montreal and published by Ubisoft. It is the third main installment in the
+      Far Cry series after Far Cry 2. The game takes place on the fictional Rook
+      Islands, a tropical archipelago which can be freely explored by players.
+      Gameplay focuses on combat and exploration. Players can use a variety of
+      weapons to defeat human enemies and hostile wildlife, and the game
+      features elements found in role-playing games such as skill trees and
+      experience. After a vacation goes awry, protagonist Jason Brody must save
+      his friends, who have been kidnapped by pirates, and escape from the
+      island and its unhinged inhabitants. Ubisoft Montreal collaborated with
+      Ubisoft's global development team, including Massive Entertainment,
+      Ubisoft Shanghai, Ubisoft Bucharest, Ubisoft Reflections and Red Storm
+      Entertainment. The game's development was partially restarted in 2010
+      after the departure of several key creative staff. The team evaluated the
+      feedback for Far Cry 2 and identified areas that needed to be improved or
+      removed. The team spent considerable time designing the island, which they
+      described as the "second most important character" in the game.
+      Inspirations were taken from films and TV shows such as Apocalypse Now and
+      Lost, as well as video games The Elder Scrolls V: Skyrim and Red Dead
+      Redemption. Michael Mando was hired to portray Vaas Montenegro, an
+      antagonist the team compared to Darth Vader. The game was announced in
+      June 2011 and Ubisoft promoted the game with various companion apps,
+      webseries and crossover. It was released for Microsoft Windows,
+      PlayStation 3 and Xbox 360 in November 2012. The game received critical
+      acclaim upon release, with praise directed at its characters (particularly
+      Vaas), world design, visuals, progression, and gameplay, though the game's
+      multiplayer modes received criticism. Despite weak pre-order sales, the
+      game was a commercial success, selling 10 million copies. It was nominated
+      for multiple year-end accolades including Game of the Year and Best
+      Shooter awards by several gaming publications. It has also been cited as
+      one of the greatest video games ever made. Ubisoft supported the game with
+      downloadable content and released Far Cry 3: Blood Dragon, the game's
+      standalone expansion, in 2013. A successor, Far Cry 4 was released in
+      November 2014. The game was re-released for PlayStation 4 and Xbox One in
+      June 2018.
+    </p>
+  </div>
+    <h1 id="farcry4">Far Cry 4</h1>
+    <img src="images/4.jpg" alt="a photo about far cry 4" />
+    <video controls play src="videos/Far Cry 4 Reveal Trailer.mp4"></video>
+    <a href="https://store.steampowered.com/app/298110/Far_Cry_4/" target="_blank">PLAY NOW</a>
+    <div class="text"><p>
+      Far Cry 4 is a 2014 first-person shooter game developed by Ubisoft
+      Montreal and published by Ubisoft. It is the successor to the 2012 video
+      game Far Cry 3, and the fourth main installment in the Far Cry series. Set
+      in the fictional Himalayan country of Kyrat, the game follows Ajay Ghale,
+      a young Kyrati-American, who becomes caught in a civil war between Kyrat's
+      Royal Army, controlled by the tyrannical king Pagan Min, and a rebel
+      movement called the Golden Path. The gameplay focuses on combat and open
+      world exploration; players battle enemy soldiers and dangerous wildlife
+      using a wide array of weapons. The game features many elements found in
+      role-playing games, such as a branching storyline and side quests. The
+      game also features a map editor and both cooperative and competitive
+      multiplayer modes. Announced in May 2014, development on Far Cry 4 began
+      immediately after the shipment of Assassin's Creed III in late 2012. The
+      team originally intended to develop a direct sequel to Far Cry 3 that
+      continues the narrative, but the idea was later scrapped and the team
+      decided to develop a new setting and story for the game. Certain aspects
+      of Far Cry 4 were inspired by the Nepalese Civil War, and the design of
+      the game's antagonist Pagan Min was inspired by Japanese films Ichi the
+      Killer and Brother. Troy Baker was hired to portray Pagan Min. The game's
+      competitive multiplayer was created by Red Storm Entertainment while the
+      Shangri-La segments in the campaign were handled by Ubisoft Toronto. Far
+      Cry 4 was released worldwide for PlayStation 3, PlayStation 4, Windows,
+      Xbox 360, and Xbox One in November 2014. It received mostly positive
+      reviews, with critics praising the open-world design, visuals, soundtrack,
+      and characters as well as new gameplay additions and the wealth of
+      content. However, some reviewers disliked the story and found the game too
+      similar to its predecessor. The game sold over 10 million units by March
+      2020. Several releases of downloadable content were subsequently
+      published. A spin-off title, Far Cry Primal, was released in February
+      2016. A successor, Far Cry 5, was released in March 2018.
+    </p>
+  </div>
+    <h1 id="farcry5">Far Cry 5</h1>
+    <img src="images/5.jpg" alt="a photo about far cry 5" />
+    <video
+      controls
+      play
+      src="videos/Far Cry 5_ Official Announce Trailer .mp4"
+    ></video>
+    <a href="https://store.steampowered.com/app/552520/Far_Cry_5/" target="_blank">PLAY NOW</a>
+    <div class="text"><p>
+      Far Cry 5 is a 2018 first-person shooter, developed by Ubisoft Montreal
+      and Ubisoft Toronto and published by Ubisoft. It is the successor to
+      2014's Far Cry 4, and the fifth main installment in the Far Cry series.
+      Set in Hope County, a fictional region of Montana, United States, the game
+      revolves around the Project at Eden's Gate, a doomsday cult that has taken
+      over the county at the command of its charismatic and powerful leader,
+      Joseph Seed. Players control an unnamed junior deputy sheriff who becomes
+      trapped in Hope County and must work alongside various resistance factions
+      to liberate the region from the despotic rule of the Seeds and Eden's
+      Gate. Gameplay focuses on combat and exploration; players battle enemy
+      soldiers and dangerous wildlife using a wide array of weapons. The game
+      features many elements found in role-playing games, such as a branching
+      storyline and side quests. The game also features a map editor, a
+      co-operative multiplayer mode, and a competitive multiplayer mode.
+      Announced in early 2017, development on Far Cry 5 was extensive. The team
+      explored several concepts before settling on an American location. The
+      game was heavily inspired by several socio-political events in modern
+      history, such as the Cold War and the September 11 attacks. The
+      development team sought to capture the despondent social climate after the
+      events and re-purpose it for the game. Developed and published solely by
+      Ubisoft, its competitive multiplayer mode was also created in-house, with
+      the company's worldwide studios gaining more creative input for Far Cry 5.
+      Far Cry 5 was released worldwide for PlayStation 4, Windows, and Xbox One
+      in March 2018. It received mostly positive reviews, although it was the
+      subject of controversy after being announced alongside a period of
+      heightened political conflicts. Critics praised the open world design,
+      visuals, gameplay and soundtrack but directed criticisms towards its story
+      and some of the characters. The game was a commercial success, becoming
+      the fastest-selling title in the franchise by grossing over $310 million
+      in its first week of sales and had sold over 10 million units by March
+      2020. Several releases of downloadable content were subsequently
+      published. A spin-off title and sequel to the narrative, Far Cry New Dawn,
+      was released in February 2019. A successor, Far Cry 6, was released in
+      October 2021.
+    </p>
+  </div>
+    <h1 id="farcry6">Far Cry 6</h1>
+    <img src="images/6.png" alt="a photo about far cry 6" />
+    <video
+      controls
+      play
+      src="videos/Far Cry 6- Launch Accolades Trailer.mp4"
+    ></video>
+    <a href="https://store.steampowered.com/app/2369390/Far_Cry_6/" target="_blank">PLAY NOW</a>
+    <div class="text"><p>
+      Far Cry 6 is a 2021 first-person shooter game developed by Ubisoft Toronto
+      and published by Ubisoft. It is the sixth main installment in the Far Cry
+      series and the successor to 2018's Far Cry 5. The game is set on the
+      fictional Caribbean island of Yara, ruled as a dictatorship by "El
+      Presidente" Antón Castillo (portrayed by Giancarlo Esposito) who is
+      raising his son Diego (Anthony Gonzalez) to follow in his rule. Players
+      take on the role of guerilla fighter Dani Rojas (voiced by either Nisa
+      Gunduz or Sean Rey), attempting to topple Castillo and his regime.
+      Gameplay focuses on combat and exploration; players fight enemy soldiers
+      and dangerous wildlife using a wide array of weapons and gadgets. The game
+      features many elements found in role-playing games, such as a leveling-up
+      system and side quests. It also features a cooperative multiplayer mode.
+      Development of Far Cry 6 began around 2016 and was extensive. The team
+      studied several revolutions of recent history for the game's narrative,
+      primarily the Cuban Revolution of 1953–1959. The game was designed to be
+      'political', covering themes such as the rise of fascism in a nation, the
+      costs of imperialism, and the need for free-and-fair elections, in
+      response to the controversy generated by Far Cry 5. The development team
+      also sought to bring back several elements from earlier Far Cry titles
+      such as a tropical setting and a fully-voiced protagonist. The game was
+      first teased by Esposito in July 2020, and officially announced later that
+      month, at the Ubisoft Forward online event. Far Cry 6 was released
+      worldwide for PlayStation 4, PlayStation 5, Stadia, Windows, Xbox One and
+      Xbox Series X/S on October 7, 2021. It received mixed reviews from
+      critics, who praised the small improvements brought to the series'
+      gameplay formula, but criticized its story and lack of innovation. Several
+      releases of downloadable content were subsequently published, including
+      three expansion packs centered around antagonists from past Far Cry games.
+    </p>
+  </div>
+    <table id="information">
+      <thead>
+        <tr>
+          <th></th>
+          <th>Far Cry</th>
+          <th>Far Cry 2</th>
+          <th>Far Cry 3</th>
+          <th>Far Cry 4</th>
+          <th>Far Cry 5</th>
+          <th>Far Cry 6</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Release</td>
+          <td>2004</td>
+          <td>2008</td>
+          <td>2012</td>
+          <td>2014</td>
+          <td>2018</td>
+          <td>2021</td>
+        </tr>
+        <tr>
+          <td>Platforms</td>
+          <td>Windows/Xbox 360/PlayStation 3</td>
+          <td>Windows/Xbox 360/PlayStation 3/Mobile Phone</td>
+          <td>Windows/Xbox 360,One/PlayStation 3,4</td>
+          <td>Windows/Xbox 360,One/PlayStation 3,4</td>
+          <td>Windows/Xbox One/PlayStation 4/Stadia</td>
+          <td>Windows/Xbox One,Series S/X/PlayStation 4,5/Stadia</td>
+        </tr>
+      </tbody>
+    </table>

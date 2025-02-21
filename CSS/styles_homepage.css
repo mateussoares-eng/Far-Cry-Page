@@ -1,0 +1,305 @@
+@font-face {
+  font-family: "farcry";
+  src: url('fonts/farcry/farceb__-webfont.woff2') format('woff2'),
+       url('fonts/farcry/farceb__-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+
+body{
+  background-color: black;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #434343;
+  
+}
+
+.tarja{
+  display: flex;
+  position: absolute;
+  
+  
+  width: 100%;
+  height: 13%;
+  transform: translateY(-320px);
+  
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.tarja h1{
+  color: white;
+  font-family: 'farcry';
+  letter-spacing: 4px;
+  font-size: 10rem;
+  word-spacing: -2rem;
+}
+
+main.cards{
+  display: flex;
+  padding: 32px;
+}
+
+main.cards section.card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #e6e6e6;
+  padding: 1rem 0rem;
+  width: 250px;
+  height: 350px;
+  border-radius: 15px;
+  margin: 2rem;
+  
+  
+}
+
+main.cards section.card:first-child{
+  margin-left: 0;
+
+}
+main.cards section.card .icon{
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  
+
+
+}
+main.cards section.card img{
+  
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+
+}
+
+main.cards section.card h1{
+  color: white;
+  font-size: 1.6rem;
+  letter-spacing: -1px;
+  margin: 5px 0px;
+  font-weight: bold;
+  
+  
+}
+
+main.cards section.card button{
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+  border-radius: 32px;
+  border: 0;
+  cursor: pointer;
+  font-size: 90%;
+  font-weight: 1000;
+  color: #fff;
+
+}
+
+button a{
+  text-decoration: none;
+  color: white;
+}
+main.cards section.card.azul button{
+  background: linear-gradient(to right, #0571fd, #96b0e9);
+}
+
+main.cards section.card.laranja button{
+  background: linear-gradient(to right, #fd6805, #e9c596);
+}
+
+main.cards section.card.verde button{
+  background: linear-gradient(to right, #017210, #7aac7e);
+}
+
+main.cards section.card.ciano button{
+  background: linear-gradient(to right, #15cbd8, #a9ffff);
+}
+
+main.cards section.card.amarelo button{
+  background: linear-gradient(to right, #224f8a, #677fb4);
+}
+
+main.cards section.card.vermelho button{
+  background: linear-gradient(to right, #a31717, #dd6262);
+}
+
+main.cards section.card {
+  box-shadow: 20px 20px 50px -30px;
+}
+main.cards section.card.azul{
+  background-image: url(../images/1.jpg);
+  background-repeat: no-repeat;
+  background-position: -14rem ;
+  background-size: cover;
+  justify-content: center;
+  
+  
+}
+main.cards section.card.laranja{
+  background-image: url(../images/2.jpg);
+  background-repeat: no-repeat;
+  background-position: left ;
+  background-size: cover;
+  justify-content: center;
+  
+}
+main.cards section.card.verde{
+  background-image: url(../images/3.png);
+  background-repeat: no-repeat;
+  background-position: -16.5rem ;
+  background-size: cover;
+  justify-content: center;
+  
+}
+main.cards section.card.ciano{
+  background-image: url(../images/4.jpg);
+  background-repeat: no-repeat;
+  background-position: -1.5rem ;
+  background-size: cover;
+  justify-content: center;
+  
+}
+main.cards section.card.amarelo{
+  background-image: url(../images/5.jpg);
+  background-repeat: no-repeat;
+  background-position: -13.8rem ;
+  background-size: cover ;
+  justify-content: center;
+  
+}
+main.cards section.card.vermelho{
+  background-image: url(../images/6.png);
+  background-repeat: no-repeat;
+  background-position: -26.3rem ;
+  background-size: cover ;
+  justify-content: center;
+  
+}
+
+.card:hover .gradient{
+  opacity: 1;
+}
+
+.gradient.azul{
+  
+  position: relative;
+  background-image: linear-gradient(0deg, #65a6e4 , transparent );
+  height: 100%;
+  width: 100%;
+  top: 16px;
+  border-radius: 15px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.gradient.laranja{
+  
+  position: relative;
+  background-image: linear-gradient(0deg, #b14b10 , transparent );
+  height: 100%;
+  width: 100%;
+  top: 16px;
+  border-radius: 15px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+
+.gradient.verde{
+  
+  position: relative;
+  background-image: linear-gradient(0deg, #0b5f04 , transparent );
+  height: 100%;
+  width: 100%;
+  top: 16px;
+  border-radius: 15px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.gradient.ciano{
+  
+  position: relative;
+  background-image: linear-gradient(0deg, #25b8b8 , transparent );
+  height: 100%;
+  width: 100%;
+  top: 16px;
+  border-radius: 15px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.gradient.amarelo{
+  
+  position: relative;
+  background-image: linear-gradient(0deg, #123a5f , transparent );
+  height: 100%;
+  width: 100%;
+  top: 16px;
+  border-radius: 15px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.gradient.vermelho{
+  
+  position: relative;
+  background-image: linear-gradient(0deg, #8d0808 , transparent );
+  height: 100%;
+  width: 100%;
+  top: 16px;
+  border-radius: 15px;
+  opacity: 0;
+  transition: opacity 0.5s;
+}
+.info{
+  
+  position: absolute;
+  padding-top: 210px;
+  transition: 1s ;
+}
+
+.info:hover{
+  transform: scale(1.05);
+  
+}
+  
+div.background{
+  
+  width: 100%;
+  height: 99.26%;
+  position: absolute;
+}
+
+div.background video{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  
+}
+  
+section{
+  position: relative;
+}
+
+
+
+  
+
+
